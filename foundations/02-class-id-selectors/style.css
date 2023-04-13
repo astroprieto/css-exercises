@@ -1,0 +1,21 @@
+/*CLASSES*/
+.odd{
+    background-color: #ffb6c1;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.odd.child{
+    font-size: 24px;
+}
+
+/*IDS*/
+#second{
+    font-size: 36px;
+    color: #0080ff;
+}
+
+#fourth{
+    background-color: #80ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
